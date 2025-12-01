@@ -24,3 +24,9 @@
    uvicorn app.main:app --reload
 5. Y abre en el navegador lo siguiente:
    http://127.0.0.1:8000/docs
+
+
+## Pruebas realizadas:
+
+[FastAPI - Swagger UI.pdf](https://github.com/user-attachments/files/23860827/FastAPI.-.Swagger.UI.pdf)
+
