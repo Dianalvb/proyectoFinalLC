@@ -7,6 +7,8 @@
 
 ## Estructura del proyrcto
 <img width="363" height="452" alt="Captura de pantalla 2025-12-01 112943" src="https://github.com/user-attachments/assets/26c42766-b3a2-45b2-b5e7-97efabef6c9e" />
+
+
 ## como ejecutar el proyecto:
 1. Crea un entorno virtual:
    ```bash
